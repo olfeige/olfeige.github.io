@@ -1,0 +1,14 @@
+html {
+    background-color: #ddd;
+}
+article {
+    background-color: #eee;
+    border: 2px solid black;
+    width: 30vw;
+    height: 80vh;
+    position: fixed;
+    right: 20px;
+    top: 10vh;
+    margin: 0;
+    padding: 10px;
+}
