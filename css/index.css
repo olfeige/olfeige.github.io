@@ -1,7 +1,7 @@
 html {
     background-color: #ddd;
 }
-article {
+aside {
     background-color: #eee;
     border: 2px solid black;
     width: 30vw;
@@ -11,4 +11,10 @@ article {
     top: 10vh;
     margin: 0;
     padding: 10px;
+}
+aside ul li {
+    margin: 10px 5px;
+    background-color: #eb996a;
+    border: 2px dashed darkorange;
+    list-style-type: none;
 }
