@@ -1,6 +1,6 @@
 html {
     background-color: #ddd;
-    height: 200vh;
+    /*height: 200vh; Debug*/
 }
 aside {
     background-color: #eee;
@@ -9,7 +9,7 @@ aside {
     height: 80vh;
     position: fixed;
     right: 20px;
-    top: 10vh;
+    top: 2vh;
     margin: 0;
     padding: 0;
 }
